@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734070957 source:d:\semester3\strukturdata\latihansendiri\ngarang\main.cpp
+	<iostream>
+	"sosmed.h"
+
+1734065356 d:\semester3\strukturdata\latihansendiri\ngarang\sosmed.h
+	<iostream>
+
+1734422637 source:d:\semester3\strukturdata\latihansendiri\ngarang\sosmed.cpp
+	"sosmed.h"
+	<iostream>
+
